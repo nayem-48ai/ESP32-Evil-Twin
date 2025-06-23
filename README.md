@@ -85,19 +85,19 @@ An ESP32 Development Board (e.g., NodeMCU-32S, WEMOS LOLIN D32)
 
 Software
 
-Arduino IDE
+```Arduino IDE```
 
-ESP32 Board Manager for Arduino
+```ESP32 Board Manager for Arduino```
 
 The following libraries are used but are typically included with the ESP32 core installation:
 
-WiFi.h
+```WiFi.h```
 
-WebServer.h
+```WebServer.h```
 
-DNSServer.h
+```DNSServer.h```
 
-Preferences.h
+```Preferences.h```
 
 Installation & Usage
 
